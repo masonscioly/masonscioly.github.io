@@ -1273,7 +1273,7 @@
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
-			margin-bottom: 0;
+			margin-bottom: 2rem;
 			list-style: none;
 			padding-left: 0;
 			border: solid 1px #ffffff;
@@ -1333,7 +1333,7 @@
 			-webkit-filter: blur(0.1rem);
 			-ms-filter: blur(0.1rem);
 			filter: blur(0.1rem);
-			opacity: 0;
+			opacity: 1;
 		}
 
 		body.is-loading #header {
@@ -1481,10 +1481,10 @@
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
-			opacity: 0;
+			opacity: 1;
 		}
 
-			#main article.active {
+			/*#main article.active {
 				-moz-transform: translateY(0);
 				-webkit-transform: translateY(0);
 				-ms-transform: translateY(0);
@@ -1530,7 +1530,7 @@
 
 				#main article .close:active:before {
 					background-color: rgba(255, 255, 255, 0.175);
-				}
+				}*/
 
 		@media screen and (max-width: 736px) {
 
