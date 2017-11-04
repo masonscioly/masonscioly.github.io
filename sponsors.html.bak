@@ -16,8 +16,7 @@
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
   </head>
-  <body>
-    <!-- Wrapper -->
+  <body> <!-- Wrapper -->
     <div id="wrapper">
       <header id="header">
         <div class="content">
@@ -47,7 +46,9 @@
             <h3>Gold Sponsor</h3>
             <a href="https://www.festo.com/cms/en-us_us/index.htm" target="_top"><img
 
-                src="images/Festo_logo.svg.png" alt="FESTO" title="Festo" style="width: 561px; height: 105px;"></a></div>
+                src="file:///C:/Users/alyso/Desktop/masonscioly.github.io/images/Festo_logo.svg.png"
+
+                alt="FESTO" title="Festo" style="width: 561px; height: 105px;"></a></div>
           <div>Festo U.S.A.</div>
           <div><br>
           </div>
@@ -57,7 +58,7 @@
             </div>
             <div>
               <h3>Bronze SPONSORS</h3>
-              <div style="text-align: center;"><img src="images/twin%20no%20bg.png"
+              <div style="text-align: center;"><img src="file:///C:/Users/alyso/Desktop/masonscioly.github.io/images/twin%20no%20bg.png"
 
                   alt="Twin Dragon" title="Twin Dragon" style="width: 261px; height: 61px;"></div>
               <div><br>
