@@ -19,18 +19,18 @@
       <header id="header">
           <div class="content">
                 <div class="inner">
-                  <h2><a href="./index.html"><span style="font-family: Quicksand;">MASON HIGH SCHOOL SCIENCE OLYMPIAD<br>
+                  <h2><a href="./index"><span style="font-family: Quicksand;">MASON HIGH SCHOOL SCIENCE OLYMPIAD<br>
                     </span> </a> </h2>
                 </div>
           </div>
           <nav>
             <ul>
-              <li> <a href="./about.html">ABOUT</a> </li>
-              <li> <a href="./events.html">EVENTS</a> </li>
-              <li> <a href="./blog.html">BLOG</a> </li>
-              <li> <a href="./sponsors.html">SPONSORS</a> </li>
-              <li> <a href="./donate.html">DONATE</a> </li>
-              <li> <a href="./contact.html">Contact</a> </li>
+              <li> <a href="./about">ABOUT</a> </li>
+              <li> <a href="./events">EVENTS</a> </li>
+              <li> <a href="./blog">BLOG</a> </li>
+              <li> <a href="./sponsors">SPONSORS</a> </li>
+              <li> <a href="./donate">DONATE</a> </li>
+              <li> <a href="./contact">Contact</a> </li>
             </ul>
           </nav>
         </header>
@@ -43,55 +43,55 @@
           
           <!-- States -->
           <h3><span style="font-family: Quicksand;">April 28, 2018</span></h3>
-          <a href="./2018states.html">States</a>
+          <a href="./2018states">States</a>
           <div style="text-align: center;"><span class="image main">
           </span></div>  
            
           <!-- Cincinnati Regionals -->
           <h3><span style="font-family: Quicksand;">March 3, 2018</span></h3>
-          <a href="./2018reg.html">Cincinnati Regionals</a>
+          <a href="./2018reg">Cincinnati Regionals</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Cincinnati Regionals" src="images/20172018reg/group1.JPG" alt="Cincinnati Regionals">
           </span></div>  
           
           <!-- Solon -->
           <h3><span style="font-family: Quicksand;">February 3, 2018</span></h3>
-          <a href="./2018solon.html">Solon</a>
+          <a href="./2018solon">Solon</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Solon" src="images/20172018solon/group1.jpg" alt="Solon">
           </span></div>  
           
           <!-- Centerville -->
           <h3><span style="font-family: Quicksand;">January 27, 2018</span></h3>
-          <a href="./2018cv.html">Centerville</a>
+          <a href="./2018cv">Centerville</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Centerville" src="images/20172018Centerville/caps.jpg" alt="Centerville">
           </span></div>  
           
           <!-- MIT -->
           <h3><span style="font-family: Quicksand;">January 20, 2018</span></h3>
-          <a href="./2018mit.html">MIT</a>
+          <a href="./2018mit">MIT</a>
           <div style="text-align: center;"><span class="image main">
             <img title="MIT" src="images/20172018MIT/group4.jpg" alt="MIT">
           </span></div>  
           
           <!-- Westlake -->
           <h3><span style="font-family: Quicksand;">January 6, 2018</span></h3>
-          <a href="./2018wl.html">Westlake</a>
+          <a href="./2018wl">Westlake</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Westlake" src="images/20172018wl/photo9.jpg" alt="Westlake">
           </span></div>  
           
           <!-- Northview -->
           <h3><span style="font-family: Quicksand;">December 9, 2017</span></h3>
-          <a href="./2017nv.html">Northview</a>
+          <a href="./2017nv">Northview</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Northview" src="images/20172018nv/group1.jpg" alt="Northview">
           </span></div>  
           
           <!-- Canoe Trip -->
           <h3><span style="font-family: Quicksand;">June 17, 2017</span></h3>
-          <a href="./2017canoe.html">Canoe Trip</a>
+          <a href="./2017canoe">Canoe Trip</a>
           <div style="text-align: center;"><span class="image main">
             <img title="Canoe Trip" src="images/2017Canoe/photo7.jpeg" alt="Canoe Trip">
           </span></div>  
