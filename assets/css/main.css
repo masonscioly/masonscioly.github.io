@@ -665,7 +665,7 @@
 		}
 
 			.image.main img {
-				max-width: 500px;
+				width: 50%;
 				text-align: center;
 				width: auto;
 			}
@@ -674,6 +674,9 @@
 
 			.image.main {
 				margin: 2rem 0;
+			}
+			.image.main img {
+				width: 100%;
 			}
 
 		}
