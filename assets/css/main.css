@@ -667,7 +667,6 @@
 			.image.main img {
 				width: 50%;
 				text-align: center;
-				width: auto;
 			}
 
 		@media screen and (max-width: 736px) {
