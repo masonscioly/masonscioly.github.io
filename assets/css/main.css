@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+   @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 /*
@@ -598,7 +598,7 @@
 
 	.image {
 		border-radius: 4px;
-		border: 0;
+		border: 5px solid rgba(0,0,0,0.1);
 		display: inline-block;
 		position: relative;
 	}
@@ -624,6 +624,8 @@
 		.image img {
 			border-radius: 4px;
 			display: block;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		.image.left, .image.right {
@@ -663,13 +665,17 @@
 		}
 
 			.image.main img {
-				width: 100%;
+				width: 50%;
+				text-align: center;
 			}
 
 		@media screen and (max-width: 736px) {
 
 			.image.main {
 				margin: 2rem 0;
+			}
+			.image.main img {
+				width: 70%;
 			}
 
 		}
@@ -1477,7 +1483,7 @@
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 40rem;
+			width: 80rem;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
@@ -1591,4 +1597,64 @@
 
 		body.is-loading #footer {
 			opacity: 0;
+		}
+
+
+/* Navbar on Invite page */
+		.navigation nav ul {
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			margin-bottom: 2rem;
+			list-style: none;
+			padding-left: 0;
+			border: solid 1px #ffffff;
+			border-radius: 4px;
+            justify-content: center;
+		}
+
+			.navigation nav ul li {
+				padding-left: 0;
+				border-left: solid 0px #ffffff;
+			}
+
+				.navigation nav ul li:first-child {
+					border-left: 0;
+				}
+
+				.navigation nav ul li a {
+					display: block;
+					min-width: 7.5rem;
+					height: 2.75rem;
+					line-height: 2.75rem;
+					padding: 0 1.25rem 0 1.45rem;
+					text-transform: uppercase;
+					letter-spacing: 0.2rem;
+					font-size: 0.8rem;
+					border-bottom: 0;
+                    text-align: center;
+				}
+
+					.navigation nav ul li a:hover {
+						background-color: rgba(255, 255, 255, 0.075);
+					}
+
+					.navigation nav ul li a:active {
+						background-color: rgba(255, 255, 255, 0.175);
+					}
+
+		.naviagion nav.use-middle:after {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: calc(50% - 1px);
+			width: 1px;
+			height: 100%;
+			background: #ffffff;
+		}
+
+		.navigation nav.use-middle ul li.is-middle {
+			border-left: 0;
 		}
